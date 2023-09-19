@@ -1,0 +1,711 @@
+{
+  "userName": {
+    "name": "KIRITI KOMARAGIRI",
+    "fontSize": "20px",
+    "color": "#0c2773",
+    "isBold": true
+  },
+  "userPosition": {
+    "position": "Technical Lead",
+    "fontSize": "16px",
+    "color": "#EF6A13",
+    "isBold": true
+  },
+  "contactInfo": [
+    {
+      "icon": "LocalPhone",
+      "contact": "+91 6300711966",
+      "fontSize": "10px",
+      "color": "#EF6A13"
+    },
+    null,
+    {
+      "icon": "AlternateEmail",
+      "contact": "kiriti.k999@gmail.com",
+      "fontSize": "10px",
+      "color": "#EF6A13"
+    },
+    {
+      "icon": "LocationOn",
+      "contact": "Hyderabad, India",
+      "fontSize": "10px",
+      "color": "#EF6A13"
+    }
+  ],
+  "userSkills": {
+    "skills": [
+      "NodeJS",
+      "ExpressJS",
+      "AWS",
+      "MongoDB",
+      "Docker",
+      "Javascript",
+      "Angular",
+      "HTML5",
+      "Bootstrap",
+      "CSS grid layout/ Flexbox",
+      "Git",
+      "Jenkins",
+      "Jasmine",
+      "Mocha",
+      "Jest",
+      "REST API",
+      "CI CD",
+      "AWS Lambda",
+      "Log4Js",
+      "NPM",
+      "Bash",
+      "Redis",
+      "Rest",
+      "API",
+      "ReactJS",
+      "GraphQL",
+      "NX",
+      "Nextjs",
+      "Nestjs",
+      "Elasticsearch",
+      "Algolia",
+      "Terraform",
+      "Typescript"
+    ],
+    "fontSize": "10px",
+    "isBold": true
+  },
+  "summarySection": {
+    "content": "\n     With overall <b>9+ years</b> of experience in software engineering using agile methodologies. Experience on AWS cloud platform and knowledge on high level architectural design working as full stack developer. Ability to adapt, multitask and motivated the team forward with new technologies through proven ability to understand and implement the requirements and go beyond the client expectations.\n",
+    "fontSize": "10px"
+  },
+  "experienceSection": {
+    "experienceFirstPage": [
+      {
+        "date": {
+          "content": {
+            "from": "06/2023",
+            "to": "Present"
+          },
+          "fontSize": "8px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "8px"
+        },
+        "whichPosition": {
+          "content": "Technical Lead",
+          "fontSize": "11px",
+          "color": "#0c2773"
+        },
+        "companyName": {
+          "content": "PruTech Solutions",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        },
+        "role": {
+          "content": "",
+          "fontSize": "18px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Developed payment solution for client using Stripe in ReactJS",
+            "Add to cart functionality using GraphQL and ReactJS"
+          ],
+          "fontSize": "9px"
+        }
+      },
+      {
+        "date": {
+          "content": {
+            "from": "07/2020",
+            "to": "03/2023"
+          },
+          "fontSize": "8px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "8px"
+        },
+        "whichPosition": {
+          "content": "Technical Lead",
+          "fontSize": "11px",
+          "color": "#0c2773"
+        },
+        "companyName": {
+          "content": "ValueLabs",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        },
+        "role": {
+          "content": "(iSelect - Lead generation) Development using node, AWS Serverless framework\n(Altus group - App portfolio) development using node and AWS\n(Altus group - Shared services) API development for multiple consumers in Altus group",
+          "fontSize": "18px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Automated deployments by implementing CICD using aws code build and code pipeline.",
+            "Created AWS resources using SAM template and cloud formation templates.",
+            "Captured leads using third party form integrator(unbounce) and save it in DynamoDB.",
+            "Increased performance by enabling cache.",
+            "Created API's for multiple teams to consume.",
+            "Ran DB Migrations.",
+            "Commissioned node cron jobs to schedule and trigger email sending service.",
+            "Handling sprint goals along with individual contributions.",
+            "Regular peer reviews and mentoring."
+          ],
+          "fontSize": "9px"
+        }
+      }
+    ],
+    "experienceSecondPage": [
+      {
+        "date": {
+          "content": {
+            "from": "02/2019",
+            "to": "07/2020"
+          },
+          "fontSize": "8px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "8px"
+        },
+        "whichPosition": {
+          "content": "Senior Software Engineer",
+          "fontSize": "11px",
+          "color": "#0c2773"
+        },
+        "companyName": {
+          "content": "EPAM Systems",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        },
+        "role": {
+          "content": "Create dialog form component to send request to retrieve financial data using Angular, Typescript, Webpack & Node.js\",\n            \"Add to cart functionality",
+          "fontSize": "18px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Developed micro front-ends using for client Thomson Reuters",
+            "Mentored 2-3 members in NodeJS.",
+            "Taken up a challenging task to implement platform agnostic date format using NodeJS",
+            "Migrated legacy code from dot Net to NodeJS."
+          ],
+          "fontSize": "9px"
+        }
+      },
+      {
+        "date": {
+          "content": {
+            "from": "09/2017",
+            "to": "01/2019"
+          },
+          "fontSize": "8px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "8px"
+        },
+        "whichPosition": {
+          "content": "Senior Software Engineer",
+          "fontSize": "11px",
+          "color": "#0c2773"
+        },
+        "companyName": {
+          "content": "ValueLabs",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        },
+        "role": {
+          "content": "Intelligently place ads on the website(WebMD) using Google GPT library",
+          "fontSize": "18px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Worked with an Agile team of 12 members and provided end-to-end solutions for clients.",
+            "Increased revenue by creating tailored ads using Google Ads framework on WebMD health site.",
+            "Relevant targeted ad placements using vanilla JavaScript and Google GPT library for clients."
+          ],
+          "listOfContentReferenceLink": ["https://www.webmd.com/"],
+          "fontSize": "9px"
+        }
+      },
+      {
+        "date": {
+          "content": {
+            "from": "07/2016",
+            "to": "02/2017"
+          },
+          "fontSize": "8px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "8px"
+        },
+        "whichPosition": {
+          "content": "Software Engineer",
+          "fontSize": "11px",
+          "color": "#0c2773"
+        },
+        "companyName": {
+          "content": "Ozonetel Communications",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        },
+        "role": {
+          "content": "Create responsive layout to onboard customers (IVR product based business) using Riot and NodeJS",
+          "fontSize": "18px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Handcrafted responsive HTML layout using css-flex and css-grid layout.",
+            "Implemented Node Express APIs.",
+            "Display user data using ReactJS."
+          ],
+          "listOfContentReferenceLink": ["https://www.webmd.com/"],
+          "fontSize": "9px"
+        }
+      },
+      {
+        "date": {
+          "content": {
+            "from": "07/2013",
+            "to": "02/2016"
+          },
+          "fontSize": "8px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "8px"
+        },
+        "whichPosition": {
+          "content": "Software Engineer",
+          "fontSize": "11px",
+          "color": "#0c2773"
+        },
+        "companyName": {
+          "content": "Intense Technologies",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        },
+        "role": {
+          "content": "",
+          "fontSize": "18px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Created Java web services.",
+            "Implemented JSP servlets.",
+            "Created BPMN workflow using JointJS.",
+            "Designed responsive layouts"
+          ],
+          "fontSize": "9px"
+        }
+      }
+    ]
+  },
+  "projectSection": {
+    "projectFirstPage": [
+      {
+        "companyAndPositionName": {
+          "content": "Client - iSelect Australia @ValueLabs",
+          "fontSize": "20px"
+        },
+        "date": {
+          "content": {
+            "from": "06/2023",
+            "to": "Present"
+          },
+          "fontSize": "10px"
+        },
+        "locationWorked": {
+          "content": "ValueLabs Hyderabad",
+          "fontSize": "8px"
+        },
+        "role": {
+          "content": "Capture and process leads for insurance domain",
+          "fontSize": "10px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Capture leads using from unbounce form.",
+            "Push them into SQS queue and save it in to DynamoDB using lambda handler.",
+            "Apply security using IP whitelisting inside resource policy of API gateway.",
+            "Set up lambda in to VPC to access the DynamoDB using gateway endpoint.",
+            "Create lambda custom authorizer to authorize the token in query string instead of header against the AWS API gateway",
+            "Create and run schema validation using JOI schema.",
+            "Create lambda and integrate with different stages of API gateways.",
+            "Generate secured pre-signed URLs with TTL using AWS SDK.",
+            "Process the env variables from secret manager and parameter store.",
+            "Create bit bucket pipelines from scratch.",
+            "Regular peer review and mentoring the team when required."
+          ],
+          "fontSize": "8px"
+        }
+      },
+      {
+        "companyAndPositionName": {
+          "content": "Client - Altus group @ValueLabs",
+          "fontSize": "20px"
+        },
+        "date": {
+          "content": {
+            "from": "01/2022",
+            "to": "04/2022"
+          },
+          "fontSize": "10px"
+        },
+        "locationWorked": {
+          "content": "ValueLabs Hyderabad",
+          "fontSize": "9px"
+        },
+        "role": {
+          "content": "(App portfolio project) - AWS serverless and Angular micro front ends",
+          "fontSize": "10px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Create lambda handler functions that triggers SQS events for User role provisioning or unprovisioning.",
+            "Created utility packages holding reusable functionality such as logger (log4js), Postgres db connections and closing functionality, common exception handling for client and server side errors.",
+            " Deployed utility NPM package into Jfrog private repository.",
+            " Build and deploy the code using AWS code build and deploy pipeline.",
+            " Create custom docker image with Ubuntu base and liquibase jar to perform various task such db migrations, unit and integration tests inside pipeline.",
+            " Write bash scripts to automate the db migration using liquibase.",
+            " Write unit test cases using mocha and integration using Jest."
+          ],
+          "fontSize": "8px"
+        }
+      },
+      {
+        "companyAndPositionName": {
+          "content": "Client - Altus group @ValueLabs",
+          "fontSize": "20px"
+        },
+        "date": {
+          "content": {
+            "from": "07/2020",
+            "to": "01/2022"
+          },
+          "fontSize": "10px"
+        },
+        "locationWorked": {
+          "content": "ValueLabs Hyderabad",
+          "fontSize": "15px"
+        },
+        "role": {
+          "content": "(Shared services project) - Formulated enterprise level services for multiple teams to consume.",
+          "fontSize": "10px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Developed APIs using NodeJS, Express.js and MongoDB(Mongoose).",
+            "Designed Mongoose database schemas.",
+            "Implemented Express.js routes and route validations using JSON schema validator.",
+            "Write database level queries (Model methods) to perform CRUD operations.",
+            "Performed database collection migrations using NPM mongression library. Also, optimized performance using Redis cache.",
+            "Created API versioning Express.js API route mechanism and provision users using RabbitMQ queues.",
+            "Setup master and child process forks along with Redis initialization.",
+            "Written husky git hooks to run prechecks such as lint and unit tests.",
+            "Compose Jenkins pipeline time to time and deploy images into ECR repositories in AWS.",
+            "Prepare services and task definitions to hold docker containers in AWS using cloud formation templates.",
+            "Created AWS Log groups, monitor and debug CloudWatch using insights."
+          ],
+          "fontSize": "8px"
+        }
+      },
+      {
+        "companyAndPositionName": {
+          "content": "Client - Thomson Reuters @Epam systems",
+          "fontSize": "20px"
+        },
+        "date": {
+          "content": {
+            "from": "2019",
+            "to": "2020"
+          },
+          "fontSize": "10px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "15px"
+        },
+        "role": {
+          "content": "Display financial data to end users on Excel.",
+          "fontSize": "10px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Migrated from legacy code base to Angular and NodeJS.",
+            "Created Angular components from scratch.",
+            "Designed custom Angular component to have combination of search, dropdown and select input.",
+            "Call HTTP services to fetch XML data, parse into JSON to display on Angular components.",
+            "Enhance performance of app by splitting requests into five asynchronous requests at a time.",
+            "Parse the custom Excel formulas to delegate the request and fetch the data."
+          ],
+          "fontSize": "8px"
+        }
+      }
+    ],
+    "projectSecondPage": [
+      {
+        "companyAndPositionName": {
+          "content": "Client - WebMD @ValueLabs",
+          "fontSize": "20px"
+        },
+        "date": {
+          "content": {
+            "from": "2017",
+            "to": "2019"
+          },
+          "fontSize": "10px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "15px"
+        },
+        "role": {
+          "content": "Increased revenue for client by placing targeted Ads on WebMD health site.",
+          "fontSize": "10px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Worked on google GPT library to display ads on website.",
+            "Tech stack was JavaScript, jQuery and GPT mainly to place different types of Ads.",
+            "Design responsive containers to hold Ad information.",
+            "Write units using mocha and chai.",
+            "Write scroll based Ads using jQuery events."
+          ],
+          "fontSize": "8px"
+        }
+      },
+      {
+        "companyAndPositionName": {
+          "content": "Client - product based @Ozonetel communications",
+          "fontSize": "20px"
+        },
+        "date": {
+          "content": {
+            "from": "2016",
+            "to": "2017"
+          },
+          "fontSize": "10px"
+        },
+        "locationWorked": {
+          "content": "Hyderabad, India",
+          "fontSize": "15px"
+        },
+        "role": {
+          "content": "Developed website for IVR product called KooKoo. ",
+          "fontSize": "10px"
+        },
+        "duties": {
+          "listOfContent": [
+            "Worked on full stack development using RiotJS on front-end and NodeJS, Express.js and MongoDB on backend.",
+            "Built responsive website from scratch using HTML5, CSS Flex and CSS grid layout."
+          ],
+          "fontSize": "8px"
+        }
+      }
+    ]
+  },
+  "educationSection": {
+    "education": [
+      {
+        "date": {
+          "content": {
+            "from": "2003",
+            "to": "2006"
+          },
+          "fontSize": "8px"
+        },
+        "degree": {
+          "content": "Bachelors degree",
+          "fontSize": "15px",
+          "color": "#0c2773"
+        },
+        "collegeName": {
+          "content": "Aurora degree college",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        }
+      },
+      {
+        "date": {
+          "content": {
+            "from": "01/2006",
+            "to": "2008"
+          },
+          "fontSize": "8px"
+        },
+        "degree": {
+          "content": "Masters in IT",
+          "fontSize": "15px",
+          "color": "#0c2773"
+        },
+        "collegeName": {
+          "content": "University of Ballarat",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        }
+      },
+      {
+        "date": {
+          "content": {
+            "from": "2010",
+            "to": "2012"
+          },
+          "fontSize": "10px"
+        },
+        "degree": {
+          "content": "Diploma in programming and Networking",
+          "fontSize": "15px",
+          "color": "#0c2773"
+        },
+        "collegeName": {
+          "content": "NMIT Melbourne, Australia",
+          "fontSize": "10px",
+          "color": "#EF6A13",
+          "isBold": true
+        }
+      }
+    ]
+  },
+  "certificationSection": {
+    "certification": [
+      {
+        "courseName": {
+          "content": "AWS certified cloud practitioner",
+          "fontSize": "10px",
+          "color": "#EF6A13"
+        },
+        "courseProvider": {
+          "content": "Amazon Web Services",
+          "fontSize": "10px"
+        }
+      },
+      {
+        "courseName": {
+          "content": "AWS certified developer associate",
+          "fontSize": "10px",
+          "color": "#EF6A13"
+        },
+        "courseProvider": {
+          "content": "Amazon Web Services",
+          "fontSize": "10px"
+        }
+      },
+      {
+        "courseName": {
+          "content": "AWS certified architect associate",
+          "fontSize": "10px",
+          "color": "#EF6A13"
+        },
+        "courseProvider": {
+          "content": "Amazon Web Services",
+          "fontSize": "10px"
+        }
+      }
+    ]
+  },
+  "additionalExperienceSection": {
+    "additionalExperienceFirstPage": [
+      {
+        "date": {
+          "content": {
+            "from": "11/2022",
+            "to": "Present"
+          },
+          "fontSize": "8px"
+        },
+        "projectName": {
+          "content": "Educational app",
+          "fontSize": "20px",
+          "color": "#EF6A13"
+        },
+        "developedIn": {
+          "content": "<b>Developed in ReactJS, NextJs, Algolia, ExpressJs, Nodejs and Mongo</b>",
+          "fontSize": "20px",
+          "isBold": true
+        },
+        "deployedIn": {
+          "content": "<b>Deployed as Docker containers on AWS EC2 using Terraform<b>",
+          "fontSize": "20px",
+          "isBold": true
+        },
+        "projectLinks": ["https://whatsnxt.in/"]
+      }
+    ],
+    "additionalExperienceSecondPage": [
+      {
+        "date": {
+          "content": {
+            "from": "06/2023",
+            "to": "Present"
+          },
+          "fontSize": "8px"
+        },
+        "projectName": {
+          "content": "Educational app",
+          "fontSize": "20px",
+          "color": "#EF6A13"
+        },
+        "developedIn": {
+          "content": "<b>Developed in ReactJS, NextJs, Algolia, ExpressJs, NodeJS and Mongoose<b>",
+          "fontSize": "10px",
+          "isBold": true
+        },
+        "deployedIn": {
+          "content": "<b>Deployed as Docker containers on AWS EC2 using Terraform</b>",
+          "fontSize": "20px",
+          "isBold": true
+        },
+        "projectLinks": ["https://whatsnxt.in/"]
+      },
+      {
+        "date": {
+          "content": {
+            "from": "06/2023",
+            "to": "Present"
+          },
+          "fontSize": "8px"
+        },
+        "projectName": {
+          "content": "Educational app",
+          "fontSize": "20px",
+          "color": "#EF6A13"
+        },
+        "developedIn": {
+          "content": "Architecture for above two apps",
+          "fontSize": "20px",
+          "isBold": true
+        },
+        "deployedIn": {
+          "content": "",
+          "fontSize": "20px",
+          "isBold": true
+        },
+        "projectLinks": ["https://whatsnxt.in/"]
+      }
+    ]
+  },
+  "findMeOnlineSection": {
+    "findMeOnline": [
+      {
+        "websiteName": "LinkedIn",
+        "icon": "LinkedIn",
+        "iconColor": "#EF6A13",
+        "websiteLink": "www.linkedin.com/in/kkiriti"
+      },
+      {
+        "websiteName": "Github",
+        "icon": "GitHub",
+        "iconColor": "#EF6A13",
+        "websiteLink": "www.linkedin.com/in/kkiriti"
+      }
+    ]
+  }
+}
